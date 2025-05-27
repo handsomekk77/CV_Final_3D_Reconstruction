@@ -1,0 +1,18 @@
+{
+  "sequences": [
+    "chess/test/seq-03",
+    "fire/test/seq-03",
+    "heads/test/seq-01",
+    "office/test/seq-02",
+    "office/test/seq-06",
+    "office/test/seq-07",
+    "office/test/seq-09",
+    "pumpkin/test/seq-01",
+    "redkitchen/test/seq-03",
+    "redkitchen/test/seq-04",
+    "redkitchen/test/seq-06",
+    "redkitchen/test/seq-12",
+    "redkitchen/test/seq-14",
+    "stairs/test/seq-01"
+  ]
+}
