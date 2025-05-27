@@ -30,7 +30,7 @@ def get_args_parser():
     parser.add_argument('--max_images', default=None, type=int)
     parser.add_argument('--confidence_threshold', default=1.5, type=float)
     parser.add_argument('--stride', default=1, type=int)
-    parser.add_argument('--max_pairs', default=100, type=int)
+    parser.add_argument('--max_pairs', default=None, type=int)
     parser.add_argument('--save_ply', action='store_true')
     parser.add_argument('--tmp_dir', default=None, type=str)
     return parser
